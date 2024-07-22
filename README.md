@@ -1,2 +1,2 @@
-# multimodal footprint dataset for identification (MFID-200)
-![1](images/MFID-200.png)
+# Multimodal Footprint Dataset for Identification (MFID-200)
+![Sample display of MFID-200](images/MFID-200.png)
