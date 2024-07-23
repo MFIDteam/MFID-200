@@ -8,4 +8,5 @@ The multimodal footprint dataset (MFID-200) of 200 subjects, which contains sing
 
 ## Download
 Deom of the MFID-200 can be viewed in the repository click here.
+
 After the paper is accepted you can download the MFID-200 through Google Drive or Baidu Drive, get the following files:
