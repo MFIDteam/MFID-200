@@ -1,0 +1,17 @@
+Optical：
+trian 0-149
+test  149-199
+	gallery Randomized 10% footprint
+	query  All remaining footprint images
+
+Single-pressure：
+trian 0-149
+test 149-199
+	gallery Randomized 10% barefoot pressure footprint
+	query  All remaining footprint images
+
+Serial-pressure：
+trian 0-149
+test 149-199
+	gallery One randomly selected barefoot pressure footprint in each of the three weight-bearing states
+	query  All remaining footprint images
