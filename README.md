@@ -22,4 +22,7 @@ After the paper is accepted you can download the MFID-200 through [Google Drive]
 • "./division rules-other tasks.txt": file list of division rules for other tasks.
 
 • "./Labels.xlsx": file list of labels.
+
+## Contact
+For questions and result submission, please contact Nian Wang at wnianahu@163.com
     
