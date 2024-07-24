@@ -13,11 +13,11 @@ Deom of the MFID-200 can be viewed in the repository click [here](https://github
 
 After the paper is accepted you can download the MFID-200 through [Google Drive]() or [Baidu Drive](https://pan.baidu.com), get the following files:
 
-• "./Optical": 4,000 optical footprint images of 200 subjects in this folder. (3.2G)
+• "./Optical": Optical footprint images of 200 subjects in this folder. (3.2G)
 
-• "./Serial-pressure": 8,021 serial-pressure footprint images of 200 subjects in this folder. (27.2G)
+• "./Serial-pressure": Serial-pressure footprint images of 200 subjects in this folder. (27.2G)
 
-• "./Single-pressure": 12,193 serial-pressure footprint images of 200 subjects in this folder. (2.6G)
+• "./Single-pressure": Single-pressure footprint images of 200 subjects in this folder. (2.6G)
 
 • "./division rules-footprint recognition.txt": file list of division rules for footprint recognition.
 
