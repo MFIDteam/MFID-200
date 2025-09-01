@@ -8,6 +8,10 @@ The multimodal footprint dataset (MFID-200) of 200 subjects, which contains sing
 
 ![Collection](images/fig.png)
 
+## Spatial–Temporal Prompted Transformer
+
+![Network architecture of the Spatial-Temporal Prompted Transformer (STPT) for footprint recognition](images/STPT.png)
+
 ## Download
 Deom of the MFID-200 can be viewed in the repository click [here](https://github.com/MFIDteam/MFID-200/tree/main/demo).
 
