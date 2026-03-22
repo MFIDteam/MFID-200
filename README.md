@@ -1,4 +1,4 @@
-# Multimodal Footprint Dataset for Identification (MFID-200)
+# MFID-200: A Multimodal Footprint Dataset and Spatial–Temporal Prompted Transformer for Identification (MFID-200)
 
 ## Sample display of MFID-200
 ![Sample display of MFID-200](images/MFID-200.png)
