@@ -28,7 +28,4 @@ You can download the MFID-200 through [Baidu Drive](https://pan.baidu.com/s/1zy8
 • "./division rules-other tasks.txt": file list of division rules for other tasks.
 
 • "./Labels.xlsx": file list of labels.
-
-## Contact
-For questions and result submission, please contact Nian Wang at wnianahu@163.com
     
