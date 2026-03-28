@@ -15,7 +15,7 @@ The multimodal footprint dataset (MFID-200) of 200 subjects, which contains sing
 ## Download
 Deom of the MFID-200 can be viewed in the repository click [here](https://github.com/MFIDteam/MFID-200/tree/main/demo).
 
-You can download the MFID-200 through [Baidu Drive](https://pan.baidu.com/s/1zy8PQGIvY85o1E6qkQBJ8Q?pwd=zf7m), get the following files:
+You can download the MFID-200 dataset through [Baidu Drive](https://pan.baidu.com/s/1zy8PQGIvY85o1E6qkQBJ8Q?pwd=zf7m) or [Google Drive](https://drive.google.com/drive/folders/16Cp-3u6S58_3w_pfwl7oYAzrRtY-ocXI?usp=drive_link), get the following files:
 
 • "./Optical": Optical footprint images of 200 subjects in this folder. (3.2G)
 
