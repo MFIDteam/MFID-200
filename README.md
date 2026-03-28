@@ -23,9 +23,5 @@ You can download the MFID-200 dataset through [Baidu Drive](https://pan.baidu.co
 
 • "./Single-pressure": Single-pressure footprint images of 200 subjects in this folder. (2.6G)
 
-• "./division rules-footprint recognition.txt": file list of division rules for footprint recognition.
-
-• "./division rules-other tasks.txt": file list of division rules for other tasks.
-
 • "./Labels.xlsx": file list of labels.
     
