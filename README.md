@@ -25,3 +25,15 @@ You can download the MFID-200 dataset through [Baidu Drive](https://pan.baidu.co
 
 • "./Labels.xlsx": file list of labels.
     
+## Cite
+@article{zhou2026mfid,
+title = {MFID-200: A multimodal footprint dataset and spatial-temporal prompted transformer for identification},
+author = {Xudong Zhou and Yan Zhang and Xuchen Fan and Nian Wang and Wenxia Bao},
+journal = {Pattern Recognition},
+volume = {179},
+pages = {113581},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.113581},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326005479}
+}
